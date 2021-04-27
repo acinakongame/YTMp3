@@ -55,11 +55,11 @@ This is Program YouTube mp3 downloader using ruby programming
   ```
 
 - ```bash
-  $ git clone https://github.com/acinakongame/YtMp3
+  $ git clone https://github.com/acinakongame/YTMp3
   ```
 
 - ```bash
-  $ cd YtMp3
+  $ cd YTMp3
   ```
 
 - ```bash
