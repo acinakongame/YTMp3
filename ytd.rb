@@ -13,11 +13,11 @@ logo = """
 ██║░╚═╝░██║██║░░░░░██████╔╝██████╔╝
 ╚═╝░░░░░╚═╝╚═╝░░░░░╚═════╝░╚═════╝░
 
-     Youtube MP3 Downloader
+    [+]Youtube MP3 Downloader
 
-       Author : Tegar Dev
+    [+]Author : Acinakongame
 
-     -[AsukaDev Official]-
+    -[Acinakongame Official]-
 ÷=================================÷
 """
 
