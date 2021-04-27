@@ -1,12 +1,6 @@
 # YtMp3
 YouTube mp3 downloader
 
-<p align="center">
-  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="AsukaDev-Official/YtMp3" height="60%" width="60%" src="20210427_031223.png"/>
-  </a>
-</p>
-
 # Info
 
 <p align="center">
