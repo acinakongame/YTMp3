@@ -55,7 +55,7 @@ This is Program YouTube mp3 downloader using ruby programming
   ```
 
 - ```bash
-  $ git clone https://github.com/AsukaDev-Official/YtMp3
+  $ git clone https://github.com/acinakongame/YtMp3
   ```
 
 - ```bash
